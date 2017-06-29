@@ -233,12 +233,13 @@
               "size": 250
             }
           },
-          "title": "Post your requests",
+          "title": "Many a times we have many things with ourself which are not usefull for us, but might be very usefull for many in need. These things may be books, clothes, old utensils, etc. You can donate these by posting the request for donating your items so that the required ones will collect them from you.",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here for posting&nbsp;<br>your requests<br></a> ",
           "_styles": {
             "H3": {
-              "color": "#2b0680"
+              "color": "#2b0680",
+              "font-size": "23px"
             }
           }
         },
