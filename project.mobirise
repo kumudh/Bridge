@@ -200,12 +200,12 @@
           "_anchor": "msg-box4-h",
           "_params": {
             "imageSize": "30",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/donate6-2000x1189.jpg",
-            "bgColor": "#8dd085",
+            "bgColor": "#cb1885",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -262,7 +262,7 @@
           "_params": {
             "imageSize": "30",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/donate1-2000x806.jpg",
