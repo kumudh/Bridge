@@ -469,7 +469,7 @@
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#d8e241"
             },
             ".mbr-author-name": {
               "color": "#ccc"
@@ -500,12 +500,12 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/downloadfiles-wallpapers-1600-900-forest-sunrise-wallpaper-landscape-nature-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
