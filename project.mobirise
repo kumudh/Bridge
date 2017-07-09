@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "BridgeGap",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#00a885",
+        "primaryColor": "#e6b4ee",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -42,6 +42,13 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#cccccc",
+              "font-size": "23px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box4-k",
           "_params": {
             "imageSize": "30",
@@ -88,14 +95,7 @@
           },
           "title": "Most of the time &nbsp;you do not know &nbsp;many of the organizations which are near you, but you know only those which are quite popular though they are far from you.&nbsp;",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">click here for searching<br>your nearby organization<br></a>",
-          "_styles": {
-            "H3": {
-              "color": "#cccccc",
-              "font-size": "23px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">click here for searching<br>your nearby organization<br></a>"
         },
         {
           "_inherit": "menu",
@@ -129,13 +129,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#851281"
+              "background": "#900eca"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#a516a0!important"
+              "background": "#a811eb!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b218ad"
+              "background": "#ae1cef"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -148,13 +148,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#00a885!important"
+              "color": "#e6b4ee!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#b218ad",
+            "bgColor": "#ae1cef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -183,7 +183,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BridgeGap</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -191,6 +191,12 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#2b0680",
+              "font-size": "23px"
+            }
+          },
           "_anchor": "msg-box4-h",
           "_params": {
             "imageSize": "30",
@@ -199,7 +205,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/donate6-2000x1189.jpg",
-            "bgColor": "#32a3a5",
+            "bgColor": "#8dd085",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -237,13 +243,7 @@
           },
           "title": "Many a times we have many things with ourself which are not usefull for us, but might be very usefull for many in need. These things may be books, clothes, old utensils, etc. You can donate these by posting the request for donating your items so that the required ones will collect them from you.",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here for posting&nbsp;<br>your requests<br></a> ",
-          "_styles": {
-            "H3": {
-              "color": "#2b0680",
-              "font-size": "23px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here for posting&nbsp;<br>your requests<br></a> "
         },
         {
           "_inherit": "msg-box5",
@@ -251,6 +251,13 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#e41c1c",
+              "font-size": "23px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box4-l",
           "_params": {
             "imageSize": "30",
@@ -297,14 +304,7 @@
           },
           "title": "You can also donate money for the organizations through this platform. Just go through the donation page.",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here for donating</a>",
-          "_styles": {
-            "H3": {
-              "color": "#e41c1c",
-              "font-size": "23px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">click here for donating</a>"
         },
         {
           "_tags": [
@@ -331,10 +331,15 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#f7da64"
+            }
+          },
           "_anchor": "contacts1-o",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -362,12 +367,7 @@
           },
           "text1": "<strong>Address</strong><br>L.B Nagar,Hyderabad, India.",
           "text2": "<strong>Contacts</strong><br>\nEmail: bridgegap@gmail.com<br>\nPhone: +91 1234554321<br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#f7da64"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -376,7 +376,211 @@
         "title": "Web Builder Title",
         "meta_descr": "Web Builder Description"
       },
-      "components": []
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#900eca"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#a811eb!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ae1cef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e6b4ee!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "bgColor": "#ae1cef",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/donate4-170x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BridgeGap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p>There are many a times when we have many things in our home which after a certain time we feel like we dont need them and most probably keep them aside or throw them away. But these things are quite usefull for many people who need them but they dont have or cant afford them. So the best way to recify this situation is to find the organisation which is near our home and donate those items to the needy.</p><p>So we try to solve this problem by providing a platform between the donors and accepters where you can &nbsp;search your nearby organisations and also donate the items directly to the needy without any intermediate sources &nbsp;and also provide space for the organisations to post their requirements so that people who can donate those requirements and freely donate.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "BridgeGap",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-t",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downloadfiles-wallpapers-1600-900-forest-sunrise-wallpaper-landscape-nature-2000x1125.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "count": "1",
+            "showImages": false,
+            "showName": true,
+            "showBio": false
+          },
+          "title": "ABOUT US",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 BridgeGap"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "contacts1-o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#127482",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/donate4-128x96.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>L.B Nagar,Hyderabad, India.",
+          "text2": "<strong>Contacts</strong><br>\nEmail: bridgegap@gmail.com<br>\nPhone: +91 1234554321<br>",
+          "text3": ""
+        }
+      ]
     }
   }
 }
