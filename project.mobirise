@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BridgeGap",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -129,13 +129,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#900eca"
+              "background": "#6d1695"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#a811eb!important"
+              "background": "#841bb4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ae1cef"
+              "background": "#8e1dc1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -154,7 +154,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#ae1cef",
+            "bgColor": "#8e1dc1",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -253,7 +253,7 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#e41c1c",
+              "color": "#ff0000",
               "font-size": "23px",
               "text-align": "left"
             }
@@ -409,13 +409,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#900eca"
+              "background": "#6d1695"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#a811eb!important"
+              "background": "#841bb4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ae1cef"
+              "background": "#8e1dc1"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -434,7 +434,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#ae1cef",
+            "bgColor": "#8e1dc1",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
